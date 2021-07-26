@@ -65,3 +65,10 @@ Contraseña: 196273
 
 Al continuar con las iteraciones para el resto de combinaciones en el conjuto de datos suministrado, el algoritmo obtiene como 
 resultado a la solucion del problema la contraseña **73162890**, siendo la más corta posible.
+
+Nota:
+-----------------------
+Para obtener la contraseña se debe ingresar al siguiente link: http://localhost:8000/api/passwd/
+recuerdar que Django debe estar en funcionamiento.
+
+
