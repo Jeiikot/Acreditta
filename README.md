@@ -8,7 +8,7 @@ Para ello, se realizó previamente pruebas de escritorio al problema,
 Una vez solucionada la incidencia se procede a construir el algoritmo 
 que da solución a este problema, la solucion se ilustra en el siguiente diagrama de flujo.
 
-![image](/static/flowchart.png)
+![image](/acreditta_project/static/flowchart.png)
 
 
 Ejemplo:
